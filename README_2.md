@@ -14,7 +14,7 @@ Table of Content
 2. To install the file, simply install a pdf reader and download the file.
 
 3. To use the file, download the file and read it through a pdf reader.
-![Screenshot of nlp_2.pdf](https://github.com/JohnsonTing/finalCapstone/screenshot_2.png)
+![Screenshot of nlp_2.pdf](https://github.com/JohnsonTing/finalCapstone/screenshot_2.png?raw=true)
 
 
 
