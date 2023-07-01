@@ -1,4 +1,4 @@
-#nlp_1.pdf
+# nlp_1.pdf
 
 
 Table of Content
@@ -14,5 +14,9 @@ Table of Content
 2. To install the file, simply install a pdf reader and download the file.
 
 3. To use the file, download the file and read it through a pdf reader.
+![Screenshot of nlp_1.pdf](https://github.com/JohnsonTing/finalCapstone/screenshot_1.png)
+
+
+
 
 4. This task was done by Johnson Ting
